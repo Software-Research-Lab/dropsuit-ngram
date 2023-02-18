@@ -1,0 +1,36 @@
+{
+  "name": "dropsuit-ngram",
+  "version": "1.0.5",
+  "description": "DropSuit NLP - ngram function: A JavaScript and Node.js library for generating N-grams",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladooniani/dropsuit-ngram.git"
+  },
+  "keywords": [
+    "N-gram",
+    "N-grams",
+    "N-gram generation",
+    "text processing",
+    "data manipulation",
+    "natural language processing"
+  ],
+  "author": "Lado Oniani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ladooniani/dropsuit-ngram/issues"
+  },
+  "homepage": "https://github.com/ladooniani/dropsuit-ngram#readme",
+  "dependencies": {
+    "dropsuit-clnstr": "^1.0.11"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
