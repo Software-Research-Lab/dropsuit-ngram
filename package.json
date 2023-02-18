@@ -1,6 +1,6 @@
 {
   "name": "dropsuit-ngram",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "DropSuit NLP - ngram function: A JavaScript and Node.js library for generating N-grams",
   "main": "index.js",
   "directories": {
