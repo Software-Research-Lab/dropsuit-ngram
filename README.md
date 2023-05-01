@@ -1,4 +1,4 @@
-[<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/dropsuit#readme)
+[<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/Terbinari-CBM-Robot/blob/main/images/dropsuit.png" />](https://github.com/ladooniani/dropsuit#readme)
 
 [![npm version](https://img.shields.io/npm/v/dropsuit-ngram.svg?style=flat)](https://www.npmjs.com/package/dropsuit-ngram) [![npm](https://img.shields.io/npm/dt/dropsuit-ngram.svg?style=flat-square)](https://www.npmjs.com/package/dropsuit-ngram) [![License](https://img.shields.io/npm/l/dropsuit-ngram.svg)](https://www.npmjs.com/package/dropsuit-ngram)
 
